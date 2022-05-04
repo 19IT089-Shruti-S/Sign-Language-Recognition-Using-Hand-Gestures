@@ -189,4 +189,4 @@ pip install opencv-contrib-python==3.4.2.16
 
 * The template of readme.md was taken from [PurpleBooth](https://github.com/PurpleBooth)
 * **Mr. Muhammed Salman Shamsi** *Asst. Prof Kalsekar Technical campus* - For his guidance.
-* **Mr. Rupesh Poudel** [Repo](https://github.com/rrupeshh/Simple-Sign-Language-Detector)- For his assistance and permission to use his existing application. 
+* **Mr. Rupesh Poudel** [Repo](https://github.com/rrupeshh/Simple-Sign-Language-Detector) 
